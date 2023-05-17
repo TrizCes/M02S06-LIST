@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\logic.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\logic.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\logic.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\bin\Debug\net7.0\logic.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\bin\Debug\net7.0\logic.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\bin\Debug\net7.0\logic.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\bin\Debug\net7.0\logic.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\bin\Debug\net7.0\logic.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\logic.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\refint\logic.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\logic.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\logic.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana6\M02S06-LIST\Logica de programacao\logic\obj\Debug\net7.0\ref\logic.dll
